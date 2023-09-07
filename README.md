@@ -13,3 +13,7 @@ To use the Draggable widget, you need to wrap the child widget that you want to 
 Drag And Drop in Flutter is similar to Draggable, but it involves dragging an item and dropping it onto another widget. This is useful when you want to create an interface where the user can drag an item from one place and drop it onto another widget to act.
 
 To use Drag And Drop in Flutter, you need to use the DragTarget widget to define the area where the draggable widget can be dropped. You can then specify the onAccept function that is called when the user drops the draggable widget onto the DragTarget widget. You can also use the onWillAccept function to specify if the DragTarget widget can accept the dropped item.
+
+
+
+[draganddrop.gif](https://github.com/MustafaRazaUllah/imagesAndGifs/blob/main/draganddrop.gif)https://github.com/MustafaRazaUllah/imagesAndGifs/blob/main/draganddrop.gif
